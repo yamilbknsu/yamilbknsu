@@ -4,11 +4,9 @@ I’m a Ph.D. candidate in Industrial Engineering at NC State University and a r
 
 <!-- I aim to develop scalable, modular pipelines that empower both scientists and practitioners to tackle real-world challenges — from infrastructure resilience to environmental modeling. -->
 
----
-
 ## 🔭 Featured Projects
 
-I am currently a part of the Behavior and Advanced Mobility Group at the U.S. National Renewable Energy Laboratory (NREL). Projects in which I participated as part of a development team at NREL are tagged with a ⚡
+I am currently a part of the Behavior and Advanced Mobility Group at the U.S. National Renewable Energy Laboratory (NREL). NREL projects are tagged with a ⚡
 
 **Tags**
 - 🌍 Geospatial Applications
@@ -27,7 +25,7 @@ Rust-based energy-aware routing engine.
 [**junaeb-visualization**](https://github.com/yamilbknsu/junaeb-visualization) [🌍 🌐 🎨]
 Interactive D3.js + GIS visualization of food delivery strategies 
 
-[**U-Prithvi Flood Mapping**](github.com/kostejnv/prithvi_segmentation) [🌍 📖 🧠]
+[**U-Prithvi Flood Mapping**](https://github.com/kostejnv/prithvi_segmentation) [🌍 📖 🧠]
 Fusion machine learning model for satellite-based flood detection  
 
 <!-- [**DEMOS**](https://github.com/yamilbknsu/demos) [⚡] -->
