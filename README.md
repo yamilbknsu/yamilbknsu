@@ -17,23 +17,29 @@ I am currently a part of the Behavior and Advanced Mobility Group at the U.S. Na
 - 🎨 Interactive visualization
 
 [**ems-ny-simopt**](https://github.com/yamilbknsu/ems-ny-data) [🌍  📟 📖]
+
 Real-time optimization and simulation framework for ambulance relocation based on New York City.
 
 [**routee-compass**](https://github.com/NREL/routee-compass) [⚡ 🌍  📖]
+
 Rust-based energy-aware routing engine. 
 
 [**junaeb-visualization**](https://github.com/yamilbknsu/junaeb-visualization) [🌍 🌐 🎨]
+
 Interactive D3.js + GIS visualization of food delivery strategies 
 
 [**U-Prithvi Flood Mapping**](https://github.com/kostejnv/prithvi_segmentation) [🌍 📖 🧠]
+
 Fusion machine learning model for satellite-based flood detection  
 
 <!-- [**DEMOS**](https://github.com/yamilbknsu/demos) [⚡] -->
-**DEMOS** (To be released) [⚡, 📟]
+**DEMOS** (To be released) [⚡ 📟]
+
 Demographic micro-simulator
 
 ### 🌐 Other personal projects
 [**arctic-keyboard**](https://github.com/yamilbknsu/arctic-keyboard)
+
 Custom split keyboard design and CAD files.  
 
 ---
