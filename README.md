@@ -1,12 +1,12 @@
 # Hi, I'm Yamil 👋
 
-I’m a Ph.D. candidate in Industrial Engineering at NC State University and a research software engineer interested building high-performance, reproducible, and open-source tools to accelerate applied research. Most of my work focuses on **geospatial data science, simulation modeling, and machine learning for risk and resilience** 
+I’m an Industrial Engineering Ph.D and a research software engineer interested building high-performance, reproducible, and open-source tools to accelerate applied research. Most of my work focuses on **geospatial data science, simulation modeling, and machine learning for risk and resilience** 
 
 <!-- I aim to develop scalable, modular pipelines that empower both scientists and practitioners to tackle real-world challenges — from infrastructure resilience to environmental modeling. -->
 
 ## 🔭 Featured Projects
 
-I am currently a part of the Behavior and Advanced Mobility Group at the U.S. National Renewable Energy Laboratory (NREL). NREL projects are tagged with a ⚡
+I am currently a part of the Behavior and Advanced Mobility Group at the U.S. National Laboratory of the Rockies (NLR). NLR projects are tagged with a ⚡
 
 **Tags**
 - 🌍 Geospatial Applications
@@ -24,8 +24,7 @@ I am currently a part of the Behavior and Advanced Mobility Group at the U.S. Na
 
 [**U-Prithvi Flood Mapping**](https://github.com/kostejnv/prithvi_segmentation) [🌍 📖 🧠] - Fusion machine learning model for satellite-based flood detection  
 
-<!-- [**DEMOS**](https://github.com/yamilbknsu/demos) [⚡] -->
-**DEMOS** (To be released) [⚡ 📟] - Demographic micro-simulator
+[**DEMOS**](https://github.com/NatLabRockies/DEMOS) [⚡ 📟] - Demographic micro-simulator
 
 ### 🌐 Other personal projects
 [**arctic-keyboard**](https://github.com/yamilbknsu/arctic-keyboard) Custom split keyboard design and CAD files.  
@@ -46,7 +45,7 @@ I am currently a part of the Behavior and Advanced Mobility Group at the U.S. Na
 🧩 GeoPandas • 📐 Shapely • 🧭 H3 • 🗺️ GDAL • 🛰️ Rasterio • 🌍 Overture Maps 
 
 **HPC & Infrastructure**  
-⚡ CUDA • 🐳 Docker • 🔗 AWS / GCP • ⛓️ GitHub Actions CI/CD  
+🐳 Docker • 🔗 AWS / GCP • ⛓️ GitHub Actions CI/CD  
 
 **Other Tools & Frameworks**  
 ⚛️ React • 🖥️ FastAPI • 🐘 PostgreSQL
