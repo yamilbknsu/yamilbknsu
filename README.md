@@ -16,9 +16,11 @@ I am currently a part of the Behavior and Advanced Mobility Group at the U.S. Na
 - 🌐 Web technologies
 - 🎨 Interactive visualization
 
-[**ems-ny-simopt**](https://github.com/yamilbknsu/ems-ny-data) [🌍  📟 📖] -Real-time optimization and simulation framework for ambulance relocation based on New York City.
+[**ems-ny-simopt**](https://github.com/yamilbknsu/ems-ny-data) [🌍 📟 📖] -Real-time optimization and simulation framework for ambulance relocation based on New York City.
 
-[**routee-compass**](https://github.com/NREL/routee-compass) [⚡ 🌍  📖] - Rust-based energy-aware routing engine. 
+[**routee-compass**](https://github.com/NREL/routee-compass) [⚡ 🌍 📖] - Rust-based energy-aware routing engine.
+
+[**bambam**](https://github.com/NatLabRockies/bambam) [⚡ 🌍 📖] - Behavior and Advanced Mobility Big Access Model, built on top of routee-compass.
 
 [**junaeb-visualization**](https://github.com/yamilbknsu/junaeb-visualization) [🌍 🌐 🎨] - Interactive D3.js + GIS visualization of food delivery strategies 
 
