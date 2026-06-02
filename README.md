@@ -6,7 +6,7 @@ I’m an Industrial Engineering Ph.D and a research software engineer interested
 
 ## 🔭 Featured Projects
 
-I am currently a part of the Behavior and Advanced Mobility Group at the U.S. National Laboratory of the Rockies (NLR). NLR projects are tagged with a ⚡
+My current focus is on the development of the Canadian Open Energy Model ([CANOE](https://github.com/CANOE-main)) as a postdoc at the University of Toronto. I was recently part of the Behavior and Advanced Mobility Group at the U.S. National Laboratory of the Rockies (NLR). NLR projects are tagged with a ⚡
 
 **Tags**
 - 🌍 Geospatial Applications
@@ -16,7 +16,7 @@ I am currently a part of the Behavior and Advanced Mobility Group at the U.S. Na
 - 🌐 Web technologies
 - 🎨 Interactive visualization
 
-[**ems-ny-simopt**](https://github.com/yamilbknsu/ems-ny-data) [🌍 📟 📖] -Real-time optimization and simulation framework for ambulance relocation based on New York City.
+[**ems-ny-simopt**](https://github.com/yamilbknsu/ems-ny-data) [🌍 📟 📖] - Real-time optimization and simulation framework for ambulance relocation based on New York City.
 
 [**routee-compass**](https://github.com/NREL/routee-compass) [⚡ 🌍 📖] - Rust-based energy-aware routing engine.
 
