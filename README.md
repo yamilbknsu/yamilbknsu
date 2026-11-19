@@ -1,6 +1,6 @@
 # Hi, I'm Yamil 👋
 
-I’m an Industrial Engineering Ph.D and a research software engineer interested building in high-performance, reproducible, and open-source tools to accelerate applied research. Most of my work focuses on **geospatial data science, simulation modeling, and machine learning for risk and resilience** 
+I’m an Industrial Engineering Ph.D and a research software engineer interested in building high-performance, reproducible, and open-source tools to accelerate applied research. Most of my work focuses on **geospatial data science, simulation modeling, and machine learning for risk and resilience** 
 
 <!-- I aim to develop scalable, modular pipelines that empower both scientists and practitioners to tackle real-world challenges — from infrastructure resilience to environmental modeling. -->
 
